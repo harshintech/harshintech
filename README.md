@@ -27,6 +27,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="auto" width="20"/> Figma |
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="auto" width="20"/> GIT 
 </p>
+</br>
 
 
 <h3>Backend Development</h3>
@@ -35,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="25"/> Express.js |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25"/> MongoDB 
 </p>
+</br>
 
 <h3>Programming & Software Development</h3>
 <p>
