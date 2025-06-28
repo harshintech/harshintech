@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development 🌱
+🔭 I’m currently working on Data Structure And Algorithm 🌱
 
 
 ## 🌐 Socials:
