@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshintech) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshintechx) 
 
-## Languages & Tools
+## Languages & Tools Which i Know 🕊️
 
 <h3>Frontend Development</h3>
 <p>
