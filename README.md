@@ -47,6 +47,17 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="20"/> Android Studio
 </p>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshintech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshintech&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshintech&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 # 📊 GitHub Stats:  
 
   
