@@ -22,44 +22,44 @@
 
 <h3>→ Frontend Development</h3>
 <p>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="auto" width="20"/> React | 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next" height="auto" width="20" /> Next |         
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="auto" width="20"/> JavaScript | 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="auto" width="20"/> TypeScript |
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="auto" width="20"/> HTML |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="auto" width="20"/> SASS | 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="auto" width="20"/> CSS |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="auto" width="20"/> Tailwind |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="auto" width="20"/> VS Code |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="auto" width="20"/> Figma |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="auto" width="20"/> GIT |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" height="auto" width="20"/> NextJS
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20"/> HTML |
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20"/> CSS |
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="20"/> TypeScript |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="filter: invert(1);" width="20"/> Next.js |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20"/> Tailwind |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20"/> Sass |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap |
+  🎨 shadcn/ui | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="20"/> Material UI
+  
 </p>
-</br>
+<br/>
 
 
 <h3>→ Backend Development</h3>
 
 <b>☕ Java Backend Stack:</b>
 <p>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="hibernate" height="auto" width="20" /> Spring Framework | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="hibernate" width="20" /> Spring Framework | 
   🍃 Spring Boot | 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate" height="auto" width="20" /> Hibernate | 🧩 JPA |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate" width="20" /> Hibernate | 🧩 JPA |
   🌱 Spring Security 
 </p>
 </br>
 
 <b>🌐 Node Backend:</b>
 <p> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="auto" width="20"/> Node.js | 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="auto" width="20"/> Express.js
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20"/> Node.js | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="20"/> Express.js
 </p>
 </br>
 
 <b>🗄️ Databases:</b>
 <p> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="auto" width="20"/> MongoDB |     
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="auto" width="20" /> MySQL
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20"/> MongoDB |     
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="20" /> MySQL
 </p>
 </br>
 
@@ -71,11 +71,19 @@
 
 <h3>→ Systems & DevOps :</h3>
 <p>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" height="auto" width="20" /> Linux |       
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="20" /> Linux |       
   🧠 Operating Systems | 🌐 Computer Networks | 
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="linux" height="auto" width="20" /> Bash / Shell Scripting | 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="linux" height="auto" width="20" />  Docker (Containerization) | 
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="linux" width="20" /> Bash / Shell Scripting | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="linux" width="20" />  Docker (Containerization) | 
   ⚙️ CLI Tools
+</p>
+</br>
+
+<h3>→ Tools :</h3>
+<p>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VS Code |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> Figma
 </p>
 </br>
 
