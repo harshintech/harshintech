@@ -20,9 +20,10 @@
 
 ## Languages & Tools Which i Know 🕊️
 
-<h3>Frontend Development</h3>
+<h3>→ Frontend Development</h3>
 <p>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="auto" width="20"/> React | 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next" height="auto" width="20" /> Next |         
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="auto" width="20"/> JavaScript | 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="auto" width="20"/> TypeScript |
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="auto" width="20"/> HTML |
@@ -37,20 +38,53 @@
 </br>
 
 
-<h3>Backend Development</h3>
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25"/> Node.js | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="25"/> Express.js |
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25"/> MongoDB 
+<h3>→ Backend Development</h3>
+
+<b>☕ Java Backend Stack:</b>
+<p>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="hibernate" height="auto" width="20" /> Spring Framework | 
+  🍃 Spring Boot | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate" height="auto" width="20" /> Hibernate | 🧩 JPA |
+  🌱 Spring Security 
 </p>
 </br>
 
-<h3>Programming & Software Development</h3>
+<b>🌐 Node Backend:</b>
+<p> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="auto" width="20"/> Node.js | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="auto" width="20"/> Express.js
+</p>
+</br>
+
+<b>🗄️ Databases:</b>
+<p> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="auto" width="20"/> MongoDB |     
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="auto" width="20" /> MySQL
+</p>
+</br>
+
+<b>🔐 Authentication:</b>
+<p>  
+  🪪 JWT | 🍪 Session-Based Auth
+</p>
+</br>
+
+<h3>→ Systems & DevOps :</h3>
 <p>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="20"/> C |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="20"/> Java With OOPS |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="20"/> Python |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="20"/> Android Studio
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" height="auto" width="20" /> Linux |       
+  🧠 Operating Systems | 🌐 Computer Networks | 
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="linux" height="auto" width="20" /> Bash / Shell Scripting | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="linux" height="auto" width="20" />  Docker (Containerization) | 
+  ⚙️ CLI Tools
+</p>
+</br>
+
+<h3>→ Programming & Software Development</h3>
+<p>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="18"/> C | 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="20"/> Java With OOPS | 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="20"/> Python | 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="20"/> Android Studio 
 </p>
 
 # 📊 GitHub Stats:  
