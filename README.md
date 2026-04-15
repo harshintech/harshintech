@@ -18,6 +18,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://www.leetcode.com/u/harshintech)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshintech)
 
+---
 ## Languages & Tools Which i Know 🕊️
 
 ### → Frontend Development
@@ -31,7 +32,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React |
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="filter: invert(1);" width="20"/> Next.js 
 </p>
-</br>
+
 
 ***🎨 UI:***
 <p>
@@ -54,21 +55,18 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate" width="20" /> Hibernate | 🧩 JPA |
   🌱 Spring Security 
 </p>
-</br>
 
 ***🌐 Node Backend:***
 <p> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20"/> Node.js | 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="20"/> Express.js
 </p>
-</br>
 
 ***🗄️ Databases:***
 <p> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20"/> MongoDB |     
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="20" /> MySQL
 </p>
-</br>
 
 ***🔐 Authentication:***
 <p>  
@@ -102,6 +100,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="20"/> Android Studio 
 </p>
 
+--- 
 # 📊 GitHub Stats:  
 
  <!-- ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
