@@ -20,14 +20,21 @@
 
 ## Languages & Tools Which i Know 🕊️
 
-<h3>→ Frontend Development</h3>
+### → Frontend Development
+
+***🌐 Core:***
 <p>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20"/> HTML |
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20"/> CSS |
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript |
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="20"/> TypeScript |
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React |
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="filter: invert(1);" width="20"/> Next.js |
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="filter: invert(1);" width="20"/> Next.js 
+</p>
+</br>
+
+***🎨 UI:***
+<p>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20"/> Tailwind |
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20"/> Sass |
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap |
@@ -38,9 +45,9 @@
 <br/>
 
 
-<h3>→ Backend Development</h3>
+### → Backend Development
 
-<b>☕ Java Backend Stack:</b>
+***☕ Java Backend Stack:***
 <p>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="hibernate" width="20" /> Spring Framework | 
   🍃 Spring Boot | 
@@ -49,27 +56,27 @@
 </p>
 </br>
 
-<b>🌐 Node Backend:</b>
+***🌐 Node Backend:***
 <p> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20"/> Node.js | 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="20"/> Express.js
 </p>
 </br>
 
-<b>🗄️ Databases:</b>
+***🗄️ Databases:***
 <p> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20"/> MongoDB |     
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="20" /> MySQL
 </p>
 </br>
 
-<b>🔐 Authentication:</b>
+***🔐 Authentication:***
 <p>  
   🪪 JWT | 🍪 Session-Based Auth
 </p>
 </br>
 
-<h3>→ Systems & DevOps :</h3>
+### → Systems & DevOps :
 <p>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="20" /> Linux |       
   🧠 Operating Systems | 🌐 Computer Networks | 
@@ -79,7 +86,7 @@
 </p>
 </br>
 
-<h3>→ Tools :</h3>
+### → Tools :
 <p>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub |
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VS Code |
@@ -87,7 +94,7 @@
 </p>
 </br>
 
-<h3>→ Programming & Software Development</h3>
+### → Programming & Software Development
 <p>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="18"/> C | 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="20"/> Java (OOPS) | 
