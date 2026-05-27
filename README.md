@@ -48,23 +48,21 @@
 
 ### → Backend Development
 
-***☕ Java Backend Stack:***
-<p>
+***Backend Stack:***
+<p> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20"/> Node.js | 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="20"/> Express.js |
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="hibernate" width="20" /> Spring Framework | 
   🍃 Spring Boot | 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate" width="20" /> Hibernate | 🧩 JPA |
-  🌱 Spring Security 
+  🌱 Spring Security |
+  
 </p>
 
-***🌐 Node Backend:***
-<p> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20"/> Node.js | 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="20"/> Express.js
-</p>
 
 ***🗄️ Databases:***
 <p> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20"/> MongoDB |     
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20"/> MongoDB | 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="20" /> MySQL
 </p>
 
