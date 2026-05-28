@@ -8,7 +8,10 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Data Structure And Algorithm 🌱
+- Solved 200+ problems on LeetCode
+- Building full-stack applications using MERN & Spring Boot.
+- 🔭 I’m currently working on Data Structure And Algorithm 🌱
+
 
 
 ## 🌐 Socials:
