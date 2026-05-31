@@ -82,10 +82,18 @@
   <img src="https://static.vecteezy.com/system/resources/previews/041/306/255/non_2x/ai-generated-cute-baby-panda-cartoon-character-3d-rendering-free-png.png" alt="W3Schools.com" width="150px"></br>
  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=harshintech&show_icons=true&theme=radical" width="100%" /> -->
 
- <!-- ![](https://github-readme-stats.vercel.app/api?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
-  ![](https://my-readme-stats-dun.vercel.app/api?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=harshintech&theme=dark&hide_border=false)
+ <!-- ![](https://github-readme-stats.vercel.app/api?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
  
- 
+  ![](https://my-readme-stats-dun.vercel.app/api?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=harshintech&theme=dark&hide_border=false)
+  -->
+  
+<p align="center">
+  <img src="https://my-readme-stats-dun.vercel.app/api?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="46.7%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshintech&theme=dark&hide_border=false" width="51.3%" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
