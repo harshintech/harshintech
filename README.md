@@ -77,9 +77,22 @@
 # 📊 GitHub Stats:  
 
  <!-- ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
-  
-  ![](https://my-readme-stats-dun.vercel.app/api/top-langs/?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  <img src="https://static.vecteezy.com/system/resources/previews/041/306/255/non_2x/ai-generated-cute-baby-panda-cartoon-character-3d-rendering-free-png.png" alt="W3Schools.com" width="150px"></br>
+  <p align="center">
+  <img src="panguin-github.png" alt="Penguin" width="200px" />
+
+  <img src="https://my-readme-stats-dun.vercel.app/api/top-langs/?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+  <img src="https://static.vecteezy.com/system/resources/previews/041/306/255/non_2x/ai-generated-cute-baby-panda-cartoon-character-3d-rendering-free-png.png" alt="Panda" width="150px" />
+</p>
+
+<p align="center">
+  <img src="panguin-github.png" alt="Penguin" width="200px" />
+
+  <img src="https://my-readme-stats-dun.vercel.app/api/top-langs/?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+  <img src="https://static.vecteezy.com/system/resources/previews/041/306/255/non_2x/ai-generated-cute-baby-panda-cartoon-character-3d-rendering-free-png.png" alt="Panda" width="150px" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=harshintech&show_icons=true&theme=radical" width="100%" /> -->
 
  <!-- ![](https://github-readme-stats.vercel.app/api?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
