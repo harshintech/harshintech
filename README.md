@@ -73,16 +73,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
+---
 # 📊 GitHub Stats:  
 
  <!-- ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
   <p align="center">
-  <img src="pgin.png" alt="Penguin" width="150px" />
+  <img src="penguin-flex.png" alt="Penguin" width="190px" />
 
   <img src="https://my-readme-stats-dun.vercel.app/api/top-langs/?username=harshintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
   <img src="https://static.vecteezy.com/system/resources/previews/041/306/255/non_2x/ai-generated-cute-baby-panda-cartoon-character-3d-rendering-free-png.png" alt="Panda" width="150px" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
@@ -110,8 +111,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshintech&theme=dark&hide_border=false" width="51.3%" />
 </p>
 
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
 <!---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshintech&limit=5&theme=dark&combine_all_yearly_contributions=true)
