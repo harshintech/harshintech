@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontColor=fff&fontSize=30&animation=fadeIn" width="100%"/>
+
 <h1 align="center">Hi, I'm Harsh Gohil 🍃🤍🕊️ </h1>
 <h3 align="center">~ A Passionate Full Stack Developer from India ~</h3>
 <div align="center">
@@ -116,7 +118,6 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
 </div>
 <!---
 ### 🔝 Top Contributed Repo
@@ -126,4 +127,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=harshintech&icon=0&color=12)](https://visitcount.itsvg.in)
 
+##  Activity Graph
+
+<div align="center">
+  
+[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshintech&bg_color=151515&color=ffffff&line=9ca3af&point=a855f7&area=true&area_color=374151&hide_border=true)](https://github.com/harshintech)
+
+</div>
+
+<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
