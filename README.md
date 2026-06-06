@@ -113,19 +113,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshintech&theme=dark&hide_border=false" width="51.3%" />
 </p>
 
+<!---
 
 ### ✍️ Random Dev Quote
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
+--->
 <!---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshintech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!---![](https://github-contrib-stats.vercel.app/harshintech/created.svg?max_repos=5)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshintech&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ##  Activity Graph
 
@@ -135,6 +136,8 @@
 
 </div>
 
-<br/>
+[![](https://visitcount.itsvg.in/api?id=harshintech&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
